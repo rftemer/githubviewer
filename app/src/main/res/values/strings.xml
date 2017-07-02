@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Viewer</string>
+    <string name="search_button">Search</string>
+    <string name="error">Ocorreu um erro de rede. Verifique sua conexão com a Internet e tente novamente mais tarde.</string>
+    <string name="user_not_found">Usuário não encontrado. Favor inserir outro nome.</string>
+    <string name="error_title">Error</string>
+</resources>

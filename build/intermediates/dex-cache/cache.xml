@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rafaeltemer/Documents/GitHubViewer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="55c7b0381e3959e91c25eaf5202742c2ee4eeb51">
+        <dex dex="/Users/rafaeltemer/Documents/GitHubViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_783a0b59e62848f44e9040e634b10ece7a41511d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaeltemer/Documents/GitHubViewer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/rafaeltemer/Documents/GitHubViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6e518a248881b606f8e626a053207f0f958baab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaeltemer/.android/build-cache/b6b7e7f23c94c425639e08c57abe2ae1a59be844/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/rafaeltemer/Documents/GitHubViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99abeb60e10e30b9b9911977d089c8f4f9a062ae/classes.dex" />
+    </item>
+
+</items>
